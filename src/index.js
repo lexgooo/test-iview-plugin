@@ -1,13 +1,9 @@
 import OpsCard from './components/ops-card'
-import OpsSidebar from './components/ops-sidebar'
 import OpsBreadcrumb from './components/ops-breadcrumb'
-import OpsMapTrack from './components/ops-map-track'
 
 const components = {
   OpsCard,
-  OpsSidebar,
-  OpsBreadcrumb,
-  OpsMapTrack
+  OpsBreadcrumb
 }
 
 const WywzOpsPlugins = {
